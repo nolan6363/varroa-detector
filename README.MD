@@ -116,6 +116,9 @@ varroa-detector/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---
 
 ⭐ If this project helped you, please consider giving it a star on GitHub!
